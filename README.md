@@ -27,7 +27,7 @@ pip install flask requests python-dotenv
 ### **1. Clonar o Repositório**
 Clone o repositório ou copie o código:
 ```bash
-git clone [https://github.com/seu-repositorio/webhook.git](https://github.com/DaemonBSD/webhook_alphabot.git)
+git clone https://github.com/DaemonBSD/webhook_alphabot.git
 cd webhook
 ```
 
